@@ -30,12 +30,12 @@ It's a simple command-line interface application help you to track, organize, an
   `.\task-cli list in-progress`
 
   ### Examples
-  +`.\task-cli add "Buy groceries"`
+  + `.\task-cli add "Buy groceries"`
   + `.\task-cli update 1 "Buy groceries and cook dinner"`
   + `.\task-cli mark-done 2`
 
 
-## **JSON Storage Example**
+## **JSON File Example**
 ```json
 [
   {
