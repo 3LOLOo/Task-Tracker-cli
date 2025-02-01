@@ -1,6 +1,6 @@
 # **Task-Tracker-cli**
 It's a simple command-line interface application help you to track, organize, and manage your tasks directly from the terminal. Built in Java, this CLI app lets you add, update, delete, and categorize tasks by status(TODO/IN_PROGRESS/DONE), with all data stored in a readable JSON file for persistence.
-  -Solution to the backend project from [roadmap.sh]([https://google.com](https://roadmap.sh/projects/task-tracker)).
+  - Solution to the backend project from [roadmap.sh](https://roadmap.sh/projects/task-tracker).
 ***
 
 ## Prerequisites
@@ -8,25 +8,25 @@ It's a simple command-line interface application help you to track, organize, an
 ***
 
 ## How to install
--Clone repo `git clone https://github.com/3LOLOo/Task-Tracker-cli.git`
+- Clone repo `git clone https://github.com/3LOLOo/Task-Tracker-cli.git`
 ***
 
 ## Compile
--`javac -cp "lib/*" src/main/java/*.java`
+- `javac -cp "lib/*" src/main/java/*.java`
 ***
 
 ## Run & Usage
--Adding a new task : `.\task-cli add <description>`
+- Adding a new task : `.\task-cli add <description>`
 
--Update task : `.\task-cli update <id> <description>`
+- Update task : `.\task-cli update <id> <description>`
 
--Delete task : `.\task-cli delete <id>`
+- Delete task : `.\task-cli delete <id>`
 
--Marking a task as in progress or done :
+- Marking a task as in progress or done :
   `.\task-cli mark-in-progress <id>`
   `.\task-cli mark-done <id>`
   
--Listing all tasks `.\task-cli list`
+- Listing all tasks `.\task-cli list`
 
 - Listing tasks by status :
   `.\task-cli list done`
