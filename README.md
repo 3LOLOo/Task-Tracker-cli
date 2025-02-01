@@ -1,7 +1,9 @@
 # **Task-Tracker-cli**
 It's a simple command-line interface application help you to track, organize, and manage your tasks directly from the terminal. Built in Java, this CLI app lets you add, update, delete, and categorize tasks by status(TODO/IN_PROGRESS/DONE), with all data stored in a readable JSON file for persistence.
   -Solution to the backend project from [roadmap.sh]([https://google.com](https://roadmap.sh/projects/task-tracker)).
-
+---
+***
+___
 ## Prerequisites
 - install Java 19+ on your system.
 
