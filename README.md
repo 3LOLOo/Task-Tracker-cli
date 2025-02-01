@@ -18,17 +18,22 @@ It's a simple command-line interface application help you to track, organize, an
 ## Run & Usage
 - Adding a new task : `.\task-cli add <description>`
 
+
 - Update task : `.\task-cli update <id> <description>`
 
+
 - Delete task : `.\task-cli delete <id>`
+
 
 - Marking a task as in progress or done :
   
   `.\task-cli mark-in-progress <id>`
   
   `.\task-cli mark-done <id>`
+
   
 - Listing all tasks : `.\task-cli list`
+
 
 - Listing tasks by status :
   
