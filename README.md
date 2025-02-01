@@ -30,7 +30,9 @@ It's a simple command-line interface application help you to track, organize, an
 
 - Listing tasks by status :
   `.\task-cli list done`
+  
   `.\task-cli list todo`
+  
   `.\task-cli list in-progress`
 
   ### Examples
