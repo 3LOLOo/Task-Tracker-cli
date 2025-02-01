@@ -45,9 +45,9 @@ It's a simple command-line interface application help you to track, organize, an
 
   ### Examples
   ```
-  + `.\task-cli add "Buy groceries"`
-  + `.\task-cli update 1 "Buy groceries and cook dinner"`
-  + `.\task-cli mark-done 2
+  .\task-cli add "Buy groceries"
+  .\task-cli update 1 "Buy groceries and cook dinner"
+  .\task-cli mark-done 2
   ```
 ***
 
