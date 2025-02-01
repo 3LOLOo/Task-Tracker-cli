@@ -24,8 +24,8 @@ It's a simple command-line interface application help you to track, organize, an
 
 - Marking a task as in progress or done :
   
-  `.\task-cli mark-in-progress <id>`
-  `.\task-cli mark-done <id>`
+  `.\task-cli mark-in-progress <id>
+  .\task-cli mark-done <id>`
   
 - Listing all tasks : `.\task-cli list`
 
